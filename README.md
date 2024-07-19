@@ -19,7 +19,7 @@ This project is a real-time chat application that allows users to join chat room
 ## Setup Instructions
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-repo/chat-app.git
+    git clone https://github.com/suryaswathi7777/chat-app.git
     cd chat-app
     ```
 
